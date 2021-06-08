@@ -8,7 +8,7 @@ I'm passionate about solving problems and learning. Always open to new challengs
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ### 🌎 "Em constante aprendizado"🧠🤓
 
-- 📍 From SP living in Mirassol <a href="#>                                               <img src="https://i.pinimg.com/originals/7f/34/d8/7f34d82e0a824589ed7fcfbc7b1a7be0.gif" /></a>
+- 📍 From SP living in Mirassol                                          <img width="300" src="https://i.pinimg.com/originals/7f/34/d8/7f34d82e0a824589ed7fcfbc7b1a7be0.gif"/></a>
 -  👨‍💻 Course student [Fábrica de Aplicativos](https://sujeitoprogramador.com/fabricadeaplicativos/)
 - 🌈 JavaScript, TypeScript, NodeJS, React, React-Native and PostgreSQL
 
