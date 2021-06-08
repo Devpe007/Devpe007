@@ -9,7 +9,7 @@ I'm passionate about solving problems and learning. Always open to new challengs
 ### 🌎 "Em constante aprendizado"🧠🤓
 
 - 📍 From SP living in Mirassol
--  👨‍💻 Course student [Fábrica de Aplicativos](https://sujeitoprogramador.com/fabricadeaplicativos/)
+-  👨‍💻 Course student [Fábrica de Aplicativos](https://sujeitoprogramador.com/fabricadeaplicativos/)                                                                          https://i.pinimg.com/originals/7f/34/d8/7f34d82e0a824589ed7fcfbc7b1a7be0.gif
 - 🌈 JavaScript, TypeScript, NodeJS, React, React-Native and PostgreSQL
 
 Check out my social networks 👇
