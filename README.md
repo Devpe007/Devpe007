@@ -1,6 +1,6 @@
 # Hey✌️
 
-<img width="300" height="300" src="https://i.pinimg.com/originals/7f/34/d8/7f34d82e0a824589ed7fcfbc7b1a7be0.gif"/></a>
+<img width="300" src="https://i.pinimg.com/originals/7f/34/d8/7f34d82e0a824589ed7fcfbc7b1a7be0.gif"/></a>
 
 My name is Pedro Ferreira, I'm from Brazil. I'm A Future Full-Stack Developer, with experience since January 2021. 👨‍💻
 
