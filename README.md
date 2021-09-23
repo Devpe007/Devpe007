@@ -10,7 +10,7 @@ I'm passionate about solving problems and learning. Always open to new challengs
   
 - 📍 From SP living in Mirassol                                          
 -  👨‍💻 Course student [Fábrica de Aplicativos](https://sujeitoprogramador.com/fabricadeaplicativos/) and [JStack](https://jstack.com.br/)
-- 🌈 JavaScript, TypeScript, NodeJS, React, React-Native and PostgreSQL
+- 🌈 JavaScript, TypeScript, NodeJS, React, React-Native
 
 Check out my social networks 👇
    
