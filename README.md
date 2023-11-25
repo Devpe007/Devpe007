@@ -8,7 +8,7 @@ I'm passionate about solving problems and learning. Always open to new challengs
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ### 🌎 "Em constante aprendizado"🧠🤓  
    
-- 📍 From SP living in Mirassol                                          
+- 📍 From SP living in Cuiabá-MT                                       
 -  👨‍💻 Course student [Fábrica de Aplicativos](https://sujeitoprogramador.com/fabricadeaplicativos/) and [JStack](https://jstack.com.br/)
 - 🌈 JavaScript, TypeScript, NodeJS, React, React-Native
 
