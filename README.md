@@ -1,8 +1,8 @@
 # Hey✌️    
     
-My name is Pedro Ferreira, I'm from Brazil. I'm A Full-Stack Developer, with experience since January 2021. 👨‍💻                      b
+My name is Pedro Ferreira, I'm from Brazil. I'm A Full-Stack Developer, with experience since January 2021. 👨‍💻                      
             
-I'm passionate about solving problems and learning. Always open to new challengs and ready to face changes.                                              
+I'm passionate about solving problems and learning. Always open to new challengs and ready to face changes.                                               
   
 ### 🌎 "Em constante aprendizado"🧠🤓  
    
