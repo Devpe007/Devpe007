@@ -2,13 +2,11 @@
 
 **`Desenvolvedor Full-Stack | Ruby on Rails, Node.js, TypeScript e React`**
 
-Sou estudante de Engenharia de Software na Uninter e desenvolvedor Full-Stack, com foco no desenvolvimento de aplicações web.
+Sou estudante de Engenharia de Software na Uninter e desenvolvedor Full-Stack, com foco em desenvolvimento Back-End utilizando Ruby on Rails e Node.js.
 
-Tenho experiência na construção de APIs utilizando Ruby on Rails, Node.js e TypeScript, além da criação de interfaces com React, Next.js e Ruby on Rails. Também trabalho com PostgreSQL e MongoDB para modelagem e persistência de dados.
+Tenho experiência no desenvolvimento de APIs REST, autenticação de usuários, controle de permissões, integração de pagamentos e modelagem de bancos de dados com PostgreSQL e MongoDB. No Front-End, utilizo React, Next.js e Ruby on Rails para desenvolver interfaces responsivas.
 
-No dia a dia, busco escrever código limpo e de fácil manutenção, aplicando boas práticas de desenvolvimento. Também tenho experiência com autenticação de usuários, controle de permissões, integração de pagamentos, testes automatizados com RSpec e Jest, containerização com Docker e pipelines de CI/CD.
-
-Estou sempre estudando para evoluir como desenvolvedor e aprofundar meus conhecimentos em arquitetura de software, boas práticas e desenvolvimento de aplicações escaláveis.
+Busco escrever código limpo e de fácil manutenção, utilizando Docker, RSpec, Jest e CI/CD para tornar o desenvolvimento mais confiável. Atualmente, estou aprofundando meus conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
 
 ## 📫 Contato
 
