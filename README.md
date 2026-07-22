@@ -4,7 +4,7 @@
 
 Sou estudante de Engenharia de Software na Uninter e desenvolvedor Full-Stack, com foco em desenvolvimento Back-End utilizando Ruby on Rails e Node.js.
 
-Tenho experiência no desenvolvimento de APIs REST, autenticação de usuários, controle de permissões, integração de pagamentos e modelagem de bancos de dados com PostgreSQL e MongoDB. No Front-End, utilizo React, Next.js e Ruby on Rails para desenvolver interfaces responsivas.
+Tenho experiência no desenvolvimento de APIs REST, autenticação de usuários, controle de permissões, integração de pagamentos e modelagem de bancos de dados com PostgreSQL. No Front-End, utilizo React, Next.js e Ruby on Rails para desenvolver interfaces responsivas.
 
 Busco escrever código limpo e de fácil manutenção, utilizando Docker, RSpec, Jest e CI/CD para tornar o desenvolvimento mais confiável. Atualmente, estou aprofundando meus conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
 
